@@ -1,0 +1,10 @@
+C:\Users\ITE\Desktop\test\NET-WinForm\NET-WinForm\bin\Debug\NET-WinForm.exe.config
+C:\Users\ITE\Desktop\test\NET-WinForm\NET-WinForm\bin\Debug\NET-WinForm.exe
+C:\Users\ITE\Desktop\test\NET-WinForm\NET-WinForm\bin\Debug\NET-WinForm.pdb
+C:\Users\ITE\Desktop\test\NET-WinForm\NET-WinForm\obj\Debug\NET-WinForm.csprojResolveAssemblyReference.cache
+C:\Users\ITE\Desktop\test\NET-WinForm\NET-WinForm\obj\Debug\NET_WinForm.Form1.resources
+C:\Users\ITE\Desktop\test\NET-WinForm\NET-WinForm\obj\Debug\NET_WinForm.Properties.Resources.resources
+C:\Users\ITE\Desktop\test\NET-WinForm\NET-WinForm\obj\Debug\NET-WinForm.csproj.GenerateResource.Cache
+C:\Users\ITE\Desktop\test\NET-WinForm\NET-WinForm\obj\Debug\NET-WinForm.csproj.CoreCompileInputs.cache
+C:\Users\ITE\Desktop\test\NET-WinForm\NET-WinForm\obj\Debug\NET-WinForm.exe
+C:\Users\ITE\Desktop\test\NET-WinForm\NET-WinForm\obj\Debug\NET-WinForm.pdb
