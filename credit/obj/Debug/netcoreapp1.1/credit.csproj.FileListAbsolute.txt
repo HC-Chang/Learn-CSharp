@@ -1,0 +1,8 @@
+c:\Users\user\Desktop\credit\bin\Debug\netcoreapp1.1\credit.deps.json
+c:\Users\user\Desktop\credit\bin\Debug\netcoreapp1.1\credit.runtimeconfig.json
+c:\Users\user\Desktop\credit\bin\Debug\netcoreapp1.1\credit.runtimeconfig.dev.json
+c:\Users\user\Desktop\credit\bin\Debug\netcoreapp1.1\credit.dll
+c:\Users\user\Desktop\credit\bin\Debug\netcoreapp1.1\credit.pdb
+c:\Users\user\Desktop\credit\obj\Debug\netcoreapp1.1\credit.AssemblyInfo.cs
+c:\Users\user\Desktop\credit\obj\Debug\netcoreapp1.1\credit.dll
+c:\Users\user\Desktop\credit\obj\Debug\netcoreapp1.1\credit.pdb
